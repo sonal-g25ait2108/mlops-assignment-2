@@ -48,7 +48,7 @@ Hugging Face Model:
 https://huggingface.co/arcsaber2302/distilbert-goodreads-genres
 W&B Run: 
 https://wandb.ai/g25ait2108-prom-iit-rajasthan/mlops-assignment2/runs/up1av12k
-GitHub Repository:
+GitHub Repository: https://github.com/sonal-g25ait2108/mlops-assignment-2/tree/main
 Files
 File	Description
 g25ait2108-mlops-assignment.ipynb	Final training and deployment notebook
